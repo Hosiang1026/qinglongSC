@@ -1,6 +1,5 @@
 /**
  * 抖音极速版，按理来说只需要传sessionid就行
- * 格式： 12 */30 * * * ?
  * 变量名 dyjsb
  * 值格式 sessionid=xxx&device_id=xxx&iid=xxx
  * sessionid必填，device_id和iid实在抓不到不填应该问题不大
