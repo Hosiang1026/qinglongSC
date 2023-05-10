@@ -1,4 +1,4 @@
-/**
+"""
 
 time：2023.5.7
 cron: 2 0,12 * * *
@@ -10,8 +10,7 @@ new Env('歌画东阳');
 抓包请求体里面: account_id和session_id的值
 环境变量名称：ghdyck = account_id的值#session_id的值  注：用'#'号分开两个参数，顺序不要乱，先是account_id的值然后session_id的值
 多账号新建变量或者用 & 分开
-
-*/
+"""
 
 import time
 import requests
