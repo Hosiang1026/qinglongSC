@@ -1,4 +1,4 @@
-"""
+/**
 
 time：2023.4.21
 cron: 23 0 * * *
@@ -9,7 +9,7 @@ new Env('ikun签到');
 环境变量 ikunck = cookie的值
 多账号新建变量或者用 & 分开
 
-"""
+*/
 
 import time
 import requests
