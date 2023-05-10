@@ -1,4 +1,4 @@
-"""
+/**
 
 time：2023.4.21
 cron: 0 9 * * *
@@ -14,8 +14,7 @@ new Env('热度星客');
      rdxkck = dca86255101af382            没有交易密码只签到
 请求头User-Agent可以换成自己的
 目前仅支持企业微信机器人推送
-
-"""
+*/
 
 import requests
 from os import environ
